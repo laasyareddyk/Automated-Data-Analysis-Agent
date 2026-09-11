@@ -1,0 +1,5 @@
+google-genai
+pandas
+matplotlib
+streamlit
+pyngrok
